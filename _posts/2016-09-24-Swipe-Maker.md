@@ -3,7 +3,7 @@ layout: post
 title: Easy Swipe Maker!
 ---
 
-From the library to build your own swipeout item views these examples will only take **5 minutes** each. Have a look at the demos app available on [google play](https://play.google.com/store/apps/details?id=apps.xenione.com.swipelayout)
+From the library to build your own swipeout item views. These examples will only take **5 minutes** each. Have a look at the demos app available on [google play](https://play.google.com/store/apps/details?id=apps.xenione.com.swipelayout)
 
 ## Example of a **Swipe of Both Sides**
 
@@ -43,7 +43,7 @@ Anchors are the boundaries between swipe slides (look at the layout at the next 
     
 ```
 2.Make your layout according to the previous point
-Note: SwipeLayout Id must be *@+id/foregroundView*
+Note: SwipeLayout Id must be *@id/foregroundView* and Background View must be @id/backgroundView
 
 ```java
 <?xml version="1.0" encoding="utf-8"?>
@@ -53,14 +53,14 @@ Note: SwipeLayout Id must be *@+id/foregroundView*
     android:layout_height="wrap_content">
 
     <ImageButton
-        android:id="@+id/backgroundView"
+        android:id="@id/backgroundView"
         android:background="@color/colorAccent"
         android:src="@drawable/ic_delete"
         android:padding="@dimen/button_padding"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"/>
 
-    <apps.xenione.com.swipelayout.lib.SwipeLayout
+    <com.xenione.libs.swipemaker.SwipeLayout
         android:id="@+id/foregroundView"
         android:layout_width="match_parent"
         android:layout_height="@dimen/item_height"
@@ -101,7 +101,7 @@ Note: SwipeLayout Id must be *@+id/foregroundView*
 
         </RelativeLayout>
 
-    </apps.xenione.com.swipelayout.lib.SwipeLayout>
+    </com.xenione.libs.swipemaker.SwipeLayout>
 
 </apps.xenione.com.swipelayout.example.swipe.HalfRightCoordinatorLayout>;
 ```
