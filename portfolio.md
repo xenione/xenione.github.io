@@ -10,7 +10,7 @@ Easy Swipe Maker
 
 ![two_step_swipe](https://cloud.githubusercontent.com/assets/4138527/14615554/842ed408-05a6-11e6-8111-f11d91844031.gif)
 
-[<img src="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github link repository" style="width: 32px;"/>](https://github.com/xenione/SwipeLayout) [<img src="{{ site.baseurl }}/images/google-play-badge.png" alt="google play link" style="width: 72px;"/>](https://play.google.com/store/apps/details?id=apps.xenione.com.swipelayout) [<img src="{{ site.baseurl }}/images/YouTube-social-icon_red_128px.png" alt="youtube link" style="width: 48px;"/>](https://www.youtube.com/watch?v=WBm8RUjNkvg)
+[<img src="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github link repository" style="width: 32px;"/>](https://github.com/xenione/SwipeLayout) [<img src="{{ site.baseurl }}/images/google-play-badge.png" alt="google play link" style="width: 72px;"/>](https://play.google.com/store/apps/details?id=apps.xenione.com.swipelayout target="_blank"}) [<img src="{{ site.baseurl }}/images/YouTube-social-icon_red_128px.png" alt="youtube link" style="width: 48px;"/>](https://www.youtube.com/watch?v=WBm8RUjNkvg)
 
 
 Digit
