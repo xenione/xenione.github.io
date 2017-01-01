@@ -15,7 +15,7 @@ Easy Swipe Maker
 
 Digit
 
-![digit](https://cloud.githubusercontent.com/assets/4138527/19620966/106a52a2-9888-11e6-80e4-b58a58aa66fa.gif)
+![tab-digit](https://cloud.githubusercontent.com/assets/4138527/20869273/258ed640-ba6f-11e6-892c-a5986896134c.gif)
 
 [<img src="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github link repository" style="width: 32px;"/>](https://github.com/xenione/Digit)
 
