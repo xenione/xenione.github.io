@@ -5,8 +5,9 @@ permalink: /portfolio/
 ---
 
 # UI Libs:
+---
 
-*Easy Swipe Maker* [![Bintray](https://api.bintray.com/packages/xenione/maven/Swipe-maker/images/download.svg) ](https://bintray.com/xenione/maven/Swipe-maker/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Easy%20Swipe%20Maker-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5020)
+ **Easy Swipe Maker** [![Bintray](https://api.bintray.com/packages/xenione/maven/Swipe-maker/images/download.svg) ](https://bintray.com/xenione/maven/Swipe-maker/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Easy%20Swipe%20Maker-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5020)
 
 
 This library is extrematly powerful since you can custom your own swipe effects "No limits for your imagination". Here you can find some examples:
@@ -18,7 +19,7 @@ This library is extrematly powerful since you can custom your own swipe effects 
 [<img src="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github link repository" style="width: 32px;"/>](https://github.com/xenione/SwipeLayout) [<img src="{{ site.baseurl }}/images/google-play-badge.png" alt="google play link" style="width: 72px;"/>](https://play.google.com/store/apps/details?id=apps.xenione.com.swipelayout target="_blank"}) [<img src="{{ site.baseurl }}/images/YouTube-social-icon_red_128px.png" alt="youtube link" style="width: 48px;"/>](https://www.youtube.com/watch?v=WBm8RUjNkvg) 
 
 
-*Before After Effect* [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-BeforeAfter%20Effect-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/4690)
+**Before After Effect** [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-BeforeAfter%20Effect-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/4690)
 
 
 After-Before swipe effect is using Easy Swipe Maker Library. Have a look if you want to create your own amazing swipe effects
@@ -30,11 +31,22 @@ After-Before swipe effect is using Easy Swipe Maker Library. Have a look if you 
 [<img src="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github link repository" style="width: 32px;"/>](https://github.com/xenione/beforeafter-effect) [<img src="{{ site.baseurl }}/images/google-play-badge.png" alt="google play link" style="width: 72px;"/>](https://play.google.com/store/apps/details?id=com.xenione.demos target="_blank"})[<img src="{{ site.baseurl }}/images/YouTube-social-icon_red_128px.png" alt="youtube link" style="width: 48px;"/>](https://www.youtube.com/watch?v=qkK6x1mR9yk) 
 
 
-Digit
+**Tab-Digit**  [![Bintray](https://api.bintray.com/packages/xenione/maven/tab-digit/images/download.svg) ](https://bintray.com/xenione/maven/tab-digit/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Tab%20digit-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/4786)
 
-![tab-digit](https://cloud.githubusercontent.com/assets/4138527/20869273/258ed640-ba6f-11e6-892c-a5986896134c.gif)
+ Flip digit, this library came up with two demos a flip clock and a countdown.
 
-[<img src="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github link repository" style="width: 32px;"/>](https://github.com/xenione/Digit)
+![tab-digit](https://cloud.githubusercontent.com/assets/4138527/21961543/856b7948-db0c-11e6-9153-2cba54ee71ae.gif) ![tab_collage](https://cloud.githubusercontent.com/assets/4138527/21961546/8c5faa4e-db0c-11e6-93a7-8dce68e514dc.gif)
+
+
+[<img src="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github link repository" style="width: 32px;"/>](https://github.com/xenione/Digit) [<img src="{{ site.baseurl }}/images/google-play-badge.png" alt="google play link" style="width: 72px;"/>](https://play.google.com/store/apps/details?id=com.xenione.libs.digit target="_blank"})[<img src="{{ site.baseurl }}/images/YouTube-social-icon_red_128px.png" alt="youtube link" style="width: 48px;"/>](https://www.youtube.com/watch?v=6WJeF9Q6-NU) 
+
+
+**Loupe** [![Bintray](https://api.bintray.com/packages/xenione/maven/loupe/images/download.svg) ](https://bintray.com/xenione/maven/loupe/_latestVersion)
+
+
+
+
+
 
 
 
