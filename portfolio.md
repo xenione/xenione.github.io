@@ -45,7 +45,8 @@ After-Before swipe effect is using Easy Swipe Maker Library. Have a look if you 
 
 Loupe effect (Magnifying glass).Nice zoom for your images.
 
-![loupe](https://cloud.githubusercontent.com/assets/4138527/21819975/2f9a57ba-d76e-11e6-8afc-fc21a118088c.gif)
+![loupe](https://cloud.githubusercontent.com/assets/4138527/21962023/f763d3a8-db19-11e6-913a-450a8c21661b.gif)
+
 
 [<img src="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github link repository" style="width: 32px;"/>](https://github.com/xenione/loupe) [<img src="{{ site.baseurl }}/images/google-play-badge.png" alt="google play link" style="width: 72px;"/>](https://play.google.com/store/apps/details?id=loupe.xenione.com.loupe})[<img src="{{ site.baseurl }}/images/YouTube-social-icon_red_128px.png" alt="youtube link" style="width: 48px;"/>](https://www.youtube.com/watch?v=F3x40-2Rfak) 
 
