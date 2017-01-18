@@ -41,7 +41,7 @@ After-Before swipe effect is using Easy Swipe Maker Library. Have a look if you 
 [<img src="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github link repository" style="width: 32px;"/>](https://github.com/xenione/Digit) [<img src="{{ site.baseurl }}/images/google-play-badge.png" alt="google play link" style="width: 72px;"/>](https://play.google.com/store/apps/details?id=com.xenione.libs.digit})[<img src="{{ site.baseurl }}/images/YouTube-social-icon_red_128px.png" alt="youtube link" style="width: 48px;"/>](https://www.youtube.com/watch?v=6WJeF9Q6-NU) 
 
 
-**Loupe** [![Bintray](https://api.bintray.com/packages/xenione/maven/loupe/images/download.svg) ](https://bintray.com/xenione/maven/loupe/_latestVersion)
+**Loupe** [![Bintray](https://api.bintray.com/packages/xenione/maven/loupe/images/download.svg) ](https://bintray.com/xenione/maven/loupe/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Loupe-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5080)
 
 Loupe effect (Magnifying glass).Nice zoom for your images.
 
