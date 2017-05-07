@@ -50,7 +50,14 @@ Loupe effect (Magnifying glass).Nice zoom for your images.
 
 [<img src="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github link repository" style="width: 32px;"/>](https://github.com/xenione/loupe) [<img src="{{ site.baseurl }}/images/google-play-badge.png" alt="google play link" style="width: 72px;"/>](https://play.google.com/store/apps/details?id=loupe.xenione.com.loupe})[<img src="{{ site.baseurl }}/images/YouTube-social-icon_red_128px.png" alt="youtube link" style="width: 48px;"/>](https://www.youtube.com/watch?v=F3x40-2Rfak) 
 
+**Sensor Calibrator**
 
+Widget to calibrate sensors (Orientation). This Calibrator can be embedded in your own App.
+
+![calibrator](https://cloud.githubusercontent.com/assets/4138527/25778832/1844ba4a-330a-11e7-9d0e-63f85ca63cdf.gif)
+
+
+[<img src="{{ site.baseurl }}/images/GitHub-Mark-32px.png" alt="github link repository" style="width: 32px;"/>](https://github.com/xenione/calibrator-sensor) [<img src="{{ site.baseurl }}/images/google-play-badge.png" alt="google play link" style="width: 72px;"/>](https://play.google.com/store/apps/details?id=com.xenione.apps.calibrator_sensor})[<img src="{{ site.baseurl }}/images/YouTube-social-icon_red_128px.png" alt="youtube link" style="width: 48px;"/>](https://youtu.be/ZH4m2FN2Mws) 
 
 
 
