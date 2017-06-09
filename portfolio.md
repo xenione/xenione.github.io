@@ -7,7 +7,12 @@ permalink: /portfolio/
 # UI Libs:
 ---
 
- **Easy Swipe Maker** [![Bintray](https://api.bintray.com/packages/xenione/maven/Swipe-maker/images/download.svg) ](https://bintray.com/xenione/maven/Swipe-maker/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Easy%20Swipe%20Maker-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5020)
+ **Easy Swipe Maker** [![Download](https://api.bintray.com/packages/xenione/maven/Swipe-maker/images/download.svg) ](https://bintray.com/xenione/maven/Swipe-maker/_latestVersion)
+ [![CI](https://api.travis-ci.org/xenione/swipe-maker.svg?branch=develop) ](https://api.travis-ci.org/xenione/swipe-maker.svg?branch=develop)
+ [![Coverage Status](https://coveralls.io/repos/github/xenione/swipe-maker/badge.svg?branch=develop)](https://coveralls.io/github/xenione/swipe-maker?branch=develop)
+ [![Counter](https://img.shields.io/badge/dowloads-1%2C3k-green.svg)](https://img.shields.io/badge/dowloads-1%2C3k-green.svg)
+ [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Easy%20Swipe%20Maker-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/5020)
+
 
 
 This library is extrematly powerful since you can custom your own swipe effects "No limits for your imagination". Here you can find some examples:
